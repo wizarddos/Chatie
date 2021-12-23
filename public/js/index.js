@@ -28,7 +28,7 @@ form.addEventListener('submit', (e)=>{
      
 }, false)
 
-
+// TEstowa zmaina
 function newMessage(){
      if(sended == 2){
           return messages[0].content;
